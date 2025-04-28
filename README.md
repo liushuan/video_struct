@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7776f90b-8746-4cb7-abd9-8ecd95ee3eb0)# video_struct
+# video_struct
 视频结构化，车牌识别，车辆识别，车型识别，人形识别
 # 安防监控、智慧交通 视频结构化（车辆+行人）实现方案
  目前视频结构化已经应用到安防监控中，主要是对视频中的人员、车辆目标进行结构化处理，能够提取出人员的年龄、性别、衣服颜色、是否戴眼镜等属性信息，车辆的车牌号码、车型、车辆颜色、挂件等属性信息。基于提取的属性信息可以进行人员、车辆的进一步比对分析，确定违法犯罪人员和违法车辆。
@@ -41,3 +41,4 @@
 
 ![image](https://github.com/user-attachments/assets/412d58c7-682d-4177-b9c8-dea209afd283)
 
+![image](https://github.com/user-attachments/assets/7776f90b-8746-4cb7-abd9-8ecd95ee3eb0)
